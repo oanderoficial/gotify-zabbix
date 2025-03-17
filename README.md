@@ -78,7 +78,7 @@
 
    <strong>*** Se você ainda não tiver criado o application, crie um. </strong>
 
-   ⚠️ <strong> Caso você esteja utilizando a Versão do Zabbix 5.0.44 pra baixo será necessário mudar na função 'autenticar_zabbix' o parâmetro "username" para "user" </strong>
+   ⚠️ <strong> Caso você esteja utilizando a versão do Zabbix 5.0.44 pra baixo será necessário mudar na função 'autenticar_zabbix' o parâmetro "username" para "user" </strong>
 
    ```python
    def autenticar_zabbix():
