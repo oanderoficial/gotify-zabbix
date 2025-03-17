@@ -25,7 +25,8 @@
 * Se for um novo alerta, formata a mensagem e envia uma notificação via API do Gotify.
 * A prioridade do alerta do Zabbix é mapeada para os níveis do Gotify.
 
-![423247979-ed07fff6-d6b9-4417-9cb2-56e6ba658673](https://github.com/user-attachments/assets/8a2fedf2-1db8-4ebf-a8b1-7ffd667726f1)
+![image](https://github.com/user-attachments/assets/6bc02383-2530-4b47-84cb-9bbb06f4e103)
+
 
 ## Loop contínuo de monitoramento
 
