@@ -2,8 +2,7 @@
 
 <p> Monitorando alertas ativos do Zabbix e enviando notificações para o Gotify.</p>
 
-![image](https://github.com/user-attachments/assets/e467d574-c14d-4bcb-a7ce-ff1a1db604c5)
-
+![image](https://github.com/user-attachments/assets/9bd281bd-dbd8-487f-b616-e47c143fdf96)
 
 
 ## 📑 Como funciona: 
