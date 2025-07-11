@@ -3,7 +3,6 @@ import json
 import time
 from datetime import datetime
 
-# CONFIGURAÇÕES DO ZABBIX API
 URL_ZABBIX = "http://SEU-AMBIENTE-ZABBIX.BR.NET/zabbix/api_jsonrpc.php"
 USUARIO_ZABBIX = "Admin" #USUÁRIO COM ACESSO A API
 SENHA_ZABBIX = "zabbix"
